@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <subscribers>
+    <subscriber>John Smith</subscriber>
+    <homeId>KD34AF24DS</homeId>
+    <boilerType>Boiler 1200W</boilerType>
+    <airConditionerType>Air p5600</airConditionerType>
+    <temperatures>
+      <period>00-08</period>
+      <temperature>20</temperature>
+    </temperatures>
+    <temperatures>
+      <period>08-12</period>
+      <temperature>21.5</temperature>
+    </temperatures>
+    <temperatures>
+      <period>12-16</period>
+      <temperature>22</temperature>
+    </temperatures>
+    <temperatures>
+      <period>16-24</period>
+      <temperature>23</temperature>
+    </temperatures>
+  </subscribers>
+  <subscribers>
+    <subscriber>Paul Doe</subscriber>
+    <homeId>LRKE4LE234D</homeId>
+    <boilerType>Boiler 1400L</boilerType>
+    <airConditionerType>Air c3200</airConditionerType>
+    <temperatures>
+      <period>00-12</period>
+      <temperature>20</temperature>
+    </temperatures>
+    <temperatures>
+      <period>12-18</period>
+      <temperature>21.5</temperature>
+    </temperatures>
+    <temperatures>
+      <period>18-24</period>
+      <temperature>20</temperature>
+    </temperatures>
+  </subscribers>
+  <subscribers>
+    <subscriber>Finlay Winter</subscriber>
+    <homeId>TE34WS3224</homeId>
+    <boilerType>Boiler p5600</boilerType>
+    <airConditionerType></airConditionerType>
+    <temperatures>
+      <period>00-04</period>
+      <temperature>18</temperature>
+    </temperatures>
+    <temperatures>
+      <period>04-08</period>
+      <temperature>19</temperature>
+    </temperatures>
+    <temperatures>
+      <period>08-12</period>
+      <temperature>20</temperature>
+    </temperatures>
+    <temperatures>
+      <period>12-16</period>
+      <temperature>21</temperature>
+    </temperatures>
+    <temperatures>
+      <period>16-20</period>
+      <temperature>22</temperature>
+    </temperatures>
+    <temperatures>
+      <period>20-24</period>
+      <temperature>20</temperature>
+    </temperatures>
+  </subscribers>
+  <subscribers>
+    <subscriber>Joshua Coleman</subscriber>
+    <homeId>TTLR3234ZZ</homeId>
+    <boilerType></boilerType>
+    <airConditionerType>Air c3200</airConditionerType>
+    <temperatures>
+      <period>00-12</period>
+      <temperature>18</temperature>
+    </temperatures>
+    <temperatures>
+      <period>12-24</period>
+      <temperature>20</temperature>
+    </temperatures>
+  </subscribers>
+  <subscribers>
+    <subscriber>Taylor Atkinson</subscriber>
+    <homeId>EEI23EE12D</homeId>
+    <boilerType>Boiler tw560</boilerType>
+    <airConditionerType>Air c3200</airConditionerType>
+    <temperatures>
+      <period>00-06</period>
+      <temperature>18</temperature>
+    </temperatures>
+    <temperatures>
+      <period>06-08</period>
+      <temperature>18</temperature>
+    </temperatures>
+    <temperatures>
+      <period>08-12</period>
+      <temperature>20</temperature>
+    </temperatures>
+    <temperatures>
+      <period>12-16</period>
+      <temperature>22</temperature>
+    </temperatures>
+    <temperatures>
+      <period>16-20</period>
+      <temperature>20</temperature>
+    </temperatures>
+    <temperatures>
+      <period>20-24</period>
+      <temperature>18</temperature>
+    </temperatures>
+  </subscribers>
+</root>
