@@ -14,7 +14,7 @@ public class Loader implements ILoader{
 
     SubscribersList lista;
 
-    //@Override
+    @Override
     public void loadSubscribers() {
         System.out.println("Load subscribers start");
 

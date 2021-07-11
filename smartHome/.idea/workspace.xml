@@ -5,54 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ac0dc29-50be-445c-b783-24e6fcd5c79c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__javax_websocket_javax_websocket_api_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__javax_websocket_javax_websocket_client_api_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__org_glassfish_grizzly_grizzly_framework_2_3_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__org_glassfish_grizzly_grizzly_http_2_3_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__org_glassfish_grizzly_grizzly_http_server_2_3_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_5_0_b42.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_5_0_b42.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_5_0_b42.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_5_0_b42.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_5_0_b42.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_entity_filtering_2_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__org_glassfish_jersey_inject_jersey_hk2_2_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_json_jackson_2_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__org_glassfish_tyrus_tyrus_client_1_13_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__org_glassfish_tyrus_tyrus_container_grizzly_client_1_13_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__org_glassfish_tyrus_tyrus_core_1_13_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__org_glassfish_tyrus_tyrus_spi_1_13_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/libraries/Maven__org_javassist_javassist_3_22_0_CR2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/RESTClient.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/nbactions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/src/main/java/hu/pemik/dcs/restclient/ApplicationMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/src/main/java/hu/pemik/dcs/restclient/Todo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RESTClient-master/src/main/java/hu/pemik/dcs/restclient/WebSocketNotificationClient.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/gson-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jackson-core-lgpl-0.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jackson-mapper-lgpl-0.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-json.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SmartHome/Szal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/SmartHome/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SmartHome/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SmartHome/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SmartHome/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SmartHome/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SmartHome/Monitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SmartHome/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SmartHome/Controller$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SmartHome/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SmartHome/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SmartHome/Controller$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/SmartHome/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SmartHome/Controller.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +49,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-json.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.21451104" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -151,6 +112,17 @@
       <updated>1620240122456</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

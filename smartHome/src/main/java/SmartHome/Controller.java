@@ -5,8 +5,6 @@ import org.json.JSONException;
 import java.io.IOException;
 import java.util.Date;
 import java.util.List;
-import java.util.Timer;
-import java.util.TimerTask;
 
 public class Controller {
 public static String id=null;
@@ -26,32 +24,9 @@ public static boolean boilerBool,acBool;
         betolto_1= new Loader();
         betolto_1.loadSubscribers();
 
-        Timer t = new Timer( );
-        t.scheduleAtFixedRate(new TimerTask() {
+        Szal sz1=new Szal("t1");
+        sz1.start();
 
-            @Override
-            public void run() {
-                try {
-                    for(Subscriber i: betolto_1.lista.subscribers)
-                    {
-                        program(i.homeId);
-                    }
-
-
-                } catch (JSONException e) {
-                    e.printStackTrace();
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-
-            }
-        }, 1000,300000);
-        //1000 means 1 second delay before get executed & 5000 means will be repeated every 5 seconds.
-        //
-        //To stop it , simply call t.cancel()
-
-
-    System.out.println("End of program...");
     }
 
     public static void program(String id) throws JSONException, IOException {
@@ -68,7 +43,7 @@ public static boolean boilerBool,acBool;
         }
 
         double targetTemp=targetTemperature();
-        System.out.println("Cálhőmérséklet: "+targetTemp);
+        System.out.println("Célhőmérséklet: "+targetTemp);
 
         driver_1=new Driver();
 
@@ -115,7 +90,6 @@ public static boolean boilerBool,acBool;
             System.out.println(i.getAirConditionerType());
             System.out.println(i.getBoilerType()+"\n \n");
         }
-
     }
 
     public static void setHour(){
