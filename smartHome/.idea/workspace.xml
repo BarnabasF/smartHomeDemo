@@ -10,11 +10,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ac0dc29-50be-445c-b783-24e6fcd5c79c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/smartHome_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/SmartHome/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SmartHome/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SmartHome/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SmartHome/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SmartHome/IDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SmartHome/IDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SmartHome/ILoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SmartHome/ILoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SmartHome/IMonitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SmartHome/IMonitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SmartHome/Loader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SmartHome/Loader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SmartHome/Monitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SmartHome/Monitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SmartHome/Szal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SmartHome/Szal.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../New folder (4)/proba/smartHomeDemo/smartHome" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.21451104" />
     <property name="project.structure.side.proportion" value="0.2" />
