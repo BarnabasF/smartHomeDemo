@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="smartHome:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/smartHome_jar</output-path>
+    <root id="archive" name="smartHome.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="smartHome" />
+    </root>
+  </artifact>
+</component>

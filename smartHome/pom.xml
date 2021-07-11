@@ -8,6 +8,60 @@
     <artifactId>smartHome</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+
+        <dependency>
+
+            <groupId>com.roufid.tutorials</groupId>
+
+            <artifactId>example-app</artifactId>
+
+            <version>1.0</version>
+
+            <scope>system</scope>
+
+            <systemPath>${basedir}/gson-2.8.2.jar</systemPath>
+
+        </dependency>
+
+        <dependency>
+            <groupId>com.roufid.tutorials</groupId>
+
+            <artifactId>example-app</artifactId>
+
+            <version>1.0</version>
+
+            <scope>system</scope>
+
+            <systemPath>${basedir}/jackson-core-lgpl-0.9.8.jar</systemPath>
+        </dependency>
+
+        <dependency>
+            <groupId>com.roufid.tutorials</groupId>
+
+            <artifactId>example-app</artifactId>
+
+            <version>1.0</version>
+
+            <scope>system</scope>
+
+            <systemPath>${basedir}/jackson-mapper-lgpl-0.9.8.jar</systemPath>
+        </dependency>
+
+        <dependency>
+            <groupId>com.roufid.tutorials</groupId>
+
+            <artifactId>example-app</artifactId>
+
+            <version>1.0</version>
+
+            <scope>system</scope>
+
+            <systemPath>${basedir}/java-json.jar</systemPath>
+        </dependency>
+
+    </dependencies>
+
 
 
     <properties>

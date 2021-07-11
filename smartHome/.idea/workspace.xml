@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="smartHome:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ac0dc29-50be-445c-b783-24e6fcd5c79c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gson-2.8.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jackson-core-lgpl-0.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jackson-mapper-lgpl-0.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-json.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SmartHome/Szal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/smartHome_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SmartHome/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SmartHome/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SmartHome/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SmartHome/Loader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SmartHome/Controller$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/SmartHome/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SmartHome/Controller.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +49,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.21451104" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
